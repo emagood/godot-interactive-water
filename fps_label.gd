@@ -1,4 +1,4 @@
-extends CanvasLayer
+extends Node3D
 
 @onready var text = $Label
 
